@@ -1,0 +1,1 @@
+This code is developed in C++ and it presents a system for banking management and provides differnt functionalities eg. adding, removing and modifying accounts and deposit and withdraw amount from bank
